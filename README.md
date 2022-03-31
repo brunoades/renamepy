@@ -10,5 +10,5 @@ lê, identifica, renomeia e move o arquivo para uma pasta de saída.
 
 Arquivos não identificados ou que não sejam do tipo PDF são movidos para um diretório de arquivos não identificados.
 
-Arquivos repetidos recebem mais um campo a seus nomes, além da data atual recebem também hora, minuto e segundo no final
+Arquivos repetidos recebem mais um campo a seus nomes, além da data atual recebem também, hora, minuto e segundo no final
 do nome.
